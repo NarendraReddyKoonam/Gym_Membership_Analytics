@@ -1,4 +1,4 @@
-# Muscle_HUB-_A-BTest
+# Membership_Analytics_A-BTest
 Muscle Hub Membership Analytics
 
 # Problem Statement:
