@@ -1,5 +1,4 @@
 # Membership_Analytics_A-BTest
-Muscle Hub Membership Analytics
 
 # Problem Statement:
 To find out the `statistical impact of Fitness Test` before joining Memberships in a GYM
